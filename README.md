@@ -1,6 +1,6 @@
-#PRIVACY POLICY MODEL FOR SIMPLE MEMORY GAME
+#PRIVACY POLICY MODEL FOR BRAIN TEASER TILES
 
-This privacy policy governs your use of the software application Simple Memory Game for mobile devices that was created by Sledgehammer Studios. The Application is an Android application that has three levels of matching difficulty, in order to have fun and/or work on short term memory.
+This privacy policy governs your use of the software application Brain Teaser Tiles for mobile devices that was created by Sledgehammer Studios. The Application is an Android application that has three levels of matching difficulty, in order to have fun and/or work on short term memory.
 
 ==========================================================================================
 
@@ -42,7 +42,7 @@ This Privacy Policy may be updated from time to time for any reason, but I have 
 
 Your Consent:
 
-By using this Simple Memory Game, you are consenting to a no strings attached type of application - Sledgehammer Studios is collecting no data from it's users. Please enjoy!
+By using Brain Teaser Tiles, you are consenting to a no strings attached type of application - Sledgehammer Studios is collecting no data from it's users. Please enjoy!
 
 ========================================================================================
 
